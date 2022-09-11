@@ -1,1 +1,1 @@
-# My-very-own-infinite-game
+# my-very-own-game
